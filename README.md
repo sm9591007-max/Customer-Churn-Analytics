@@ -75,7 +75,7 @@ Customer-Churn-Analytics/
 
 ## Author
 
-**Suman Mondal**
+**SUBHAJIT MANNA**
 
 Adamas University
 
